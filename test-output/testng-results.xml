@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Failed suite [Suite]" duration-ms="4926" started-at="2019-03-16T20:19:44Z" finished-at="2019-03-16T20:19:48Z">
+    <groups>
+    </groups>
+    <test name="Test(failed)" duration-ms="4926" started-at="2019-03-16T20:19:44Z" finished-at="2019-03-16T20:19:48Z">
+      <class name="demopkg.ElementsNG">
+        <test-method status="PASS" signature="setup()[pri:0, instance:demopkg.ElementsNG@51565ec2]" name="setup" is-config="true" duration-ms="4049" started-at="2019-03-16T20:19:44Z" finished-at="2019-03-16T20:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="testRadioNo()[pri:2, instance:demopkg.ElementsNG@51565ec2]" name="testRadioNo" duration-ms="763" started-at="2019-03-16T20:19:48Z" finished-at="2019-03-16T20:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRadioNo -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:demopkg.ElementsNG@51565ec2]" name="tearDown" is-config="true" duration-ms="93" started-at="2019-03-16T20:19:48Z" finished-at="2019-03-16T20:19:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- demopkg.ElementsNG -->
+    </test> <!-- Test(failed) -->
+  </suite> <!-- Failed suite [Suite] -->
+</testng-results>
